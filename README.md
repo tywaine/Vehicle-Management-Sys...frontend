@@ -1,5 +1,5 @@
 # Vehicle-Management-Sys...frontend 📦  
-The fronted for a vehicle management system built with **JavaFx**.
+The frontend for a vehicle management system built with **JavaFx**.
 
 ## Features  
 ✔️ Add, update, delete vehicles, sales, customers, etc. 
